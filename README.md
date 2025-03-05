@@ -13,7 +13,7 @@ everything lmao
 ### Introduction
 
 Inazuma Eleven is a soccer game made by Level-5 on the Nintendo DS.
-It was originally released in August 2008 in Japan, and then got remade with an improved engine for an European release in January 2011. 
+It was originally released in August 2008 in Japan, and then got remade with an improved engine for an European release in January 2011.
 
 ![Inazuma Eleven Box Art](mdimg/Inazuma_Eleven_cover.webp "Inazuma Eleven Box Art")
 
@@ -21,7 +21,7 @@ The game makes good use of the DS' touchscreen by basing its entire gameplay usi
 
 ![Gameplay Screenshot](mdimg/gameplay.png)
 
-There are more than a thousand players you can scout to create your dream team and battle your friends ! At least that was the case in 2012 when people still played the game... 
+There are more than a thousand players you can scout to create your dream team and battle your friends ! At least that was the case in 2012 when people still played the game...
 
 ### Goals
 
