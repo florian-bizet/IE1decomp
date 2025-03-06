@@ -1,2 +1,3 @@
-rom/*
+rom/
 src/*.exe
+.vscode/
